@@ -1,121 +1,98 @@
-# 🚀 Projetos Q3 & Q4 2024 - Elias Andrade: Analytics, Machine Learning e Sistemas para Logística 📊
+# 🚀 Projetos Q3 & Q4 2024 - Elias Andrade: Transformando Logística, Compras e Suprimentos com Inteligência e Automação 💡
 
-Olá! 👋 Sou Elias Andrade, especialista em inovação, automação e tecnologia para logística e TI. Este repositório é dedicado aos projetos que desenvolvi entre o terceiro e quarto trimestre de 2024, focando em **analytics**, **machine learning**, **dashboards** e **sistemas** que transformam a logística, a gestão de qualidade de fornecedores e a performance geral.
+[![Inovação em Logística](https://img.shields.io/badge/Inovação%20Logística-Especialista-purple)](https://www.linkedin.com/in/elias-andrade-318a9a186/) [![Automação de Processos](https://img.shields.io/badge/Automação%20Processos-Expert-purple)](https://www.ansible.com/) [![Analytics de Dados](https://img.shields.io/badge/Analytics%20Dados-Avançado-purple)](https://www.tableau.com/) [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-purple)](https://scikit-learn.org/) [![Otimização de Estoque](https://img.shields.io/badge/Otimização%20Estoque-Avançado-purple)](https://www.supplychaindigital.com) [![Gestão de Compras](https://img.shields.io/badge/Gestão%20Compras-Especialista-purple)](https://www.procurementleaders.com)  [![Desenvolvimento de Sistemas](https://img.shields.io/badge/Desenvolvimento%20Sistemas-Expert-purple)](https://reactjs.org/) [![Gestão de Projetos](https://img.shields.io/badge/Gestão%20Projetos-Estratégico-purple)](https://www.pmi.org/)  [![Qualidade de Fornecedores](https://img.shields.io/badge/Qualidade%20Fornecedores-Especialista-purple)](https://www.iso.org/iso-9001-quality-management.html) [![Auditoria e Conformidade](https://img.shields.io/badge/Auditoria%20Conformidade-Avançado-purple)](https://www.iso.org/iso-19011-auditing-management.html)  [![Supply Chain](https://img.shields.io/badge/Supply%20Chain-Avançado-purple)](https://www.supplychaindigital.com) [![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Especialista-purple)](https://www.tableau.com)  [![Data Science](https://img.shields.io/badge/Data%20Science-Avançado-purple)](https://www.jupyter.org) [![Otimização Logística](https://img.shields.io/badge/Otimização%20Logística-Especialista-purple)](https://www.logisticsmgmt.com) [![Melhoria Contínua](https://img.shields.io/badge/Melhoria%20Contínua-Expert-purple)](https://www.kaizen.com) [![Metodologias Lean](https://img.shields.io/badge/Metodologias%20Lean-Avançado-purple)](https://www.lean.org) [![Metodologia Kanban](https://img.shields.io/badge/Metodologia%20Kanban-Especialista-purple)](https://kanbanize.com) [![Previsão de Demanda](https://img.shields.io/badge/Previsão%20Demanda-Avançado-purple)](https://www.demandplanning.net/) [![Monitoramento de KPIs](https://img.shields.io/badge/Monitoramento%20KPIs-Especialista-purple)](https://www.domo.com) [![Relatórios Automatizados](https://img.shields.io/badge/Relatórios%20Automatizados-Avançado-purple)](https://www.tableau.com) [![Gestão de Riscos](https://img.shields.io/badge/Gestão%20Riscos-Estratégico-purple)](https://www.pmi.org) [![Soluções em Cloud](https://img.shields.io/badge/Soluções%20Cloud-Avançado-purple)](https://aws.amazon.com) [![ITIL & ITSM](https://img.shields.io/badge/ITIL%20&%20ITSM-Expert-purple)](https://www.axelos.com) [![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Avançado-purple)](https://chartio.com) [![Automação de Relatórios](https://img.shields.io/badge/Automação%20Relatórios-Especialista-purple)](https://www.tableau.com) [![Auditoria de Estoque](https://img.shields.io/badge/Auditoria%20Estoque-Avançado-purple)](https://www.iso.org/iso-9001-quality-management.html) [![Integração de Sistemas](https://img.shields.io/badge/Integração%20Sistemas-Especialista-purple)](https://mulesoft.com) [![Análise de Indicadores](https://img.shields.io/badge/Análise%20Indicadores-Avançado-purple)](https://www.domo.com) [![Process Mining](https://img.shields.io/badge/Process%20Mining-Especialista-purple)](https://www.celonis.com) [![Microserviços](https://img.shields.io/badge/Microserviços-Avançado-purple)](https://microservices.io/) [![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-Especialista-purple)](https://www.storytellingwithdata.com) [![Planejamento Logístico](https://img.shields.io/badge/Planejamento%20Logístico-Avançado-purple)](https://www.supplychainbrain.com) [![Auditoria Contínua](https://img.shields.io/badge/Auditoria%20Contínua-Especialista-purple)](https://www.iso.org/iso-19011-auditing-management.html)  [![Transformação Digital](https://img.shields.io/badge/Transformação%20Digital-Avançado-purple)](https://www.mckinsey.com/capabilities/mckinsey-digital)
+
+Olá! 👋 Sou Elias Andrade, seu parceiro em inovação, automação e tecnologia para logística e TI. Este repositório é um reflexo do meu trabalho nos trimestres Q3 e Q4 de 2024, onde transformei dados em resultados concretos e sistemas em soluções eficientes.
 
 ![analytics_isometric_illustration](https://github.com/user-attachments/assets/f13d1b74-0a33-468c-b1f2-67e17667108e)
-
 ![dashboard_isometric_illustration](https://github.com/user-attachments/assets/9b2d5a44-6f2e-4157-ab4e-04c7f1262257)
 
-## 🤔 Por que minhas soluções são importantes para sua empresa?
+## 🤔 Por que minhas soluções são essenciais para o seu negócio?
 
-Se você é um empresário ou um gestor de RH buscando **otimizar sua operação logística**, **reduzir custos**, **melhorar a qualidade de seus fornecedores** e **tomar decisões baseadas em dados**, você está no lugar certo! Minha expertise em **analytics**, **machine learning** e **desenvolvimento de sistemas** me permite criar soluções sob medida que geram resultados reais e mensuráveis.
+Se você é um empresário ou gestor de RH que busca **otimizar a operação logística**, **reduzir custos**, **elevar a qualidade dos fornecedores** e **tomar decisões com base em dados**, você está no lugar certo! Minha experiência em transformar dados em insights, criar sistemas e automatizar processos garante resultados reais e mensuráveis para sua empresa.
 
-## 🌟 Minhas áreas de especialização:
+## 🌟 O que eu faço e como impacto sua operação:
 
-- **📊 Analytics para Logística**: Transformo dados brutos em insights acionáveis. Crio dashboards que monitoram KPIs de estoque, compras, performance logística e muito mais.
-- **🤖 Machine Learning para Otimização**: Desenvolvo modelos preditivos que otimizam o estoque, preveem demandas, melhoram a gestão de compras e a performance da sua cadeia de suprimentos.
-- **💻 Desenvolvimento de Sistemas Personalizados**: Construo sistemas web e micro serviços que integram e automatizam processos, desde a gestão de qualidade de fornecedores até a auditoria de estoque.
-- **📈 Gestão de Qualidade de Fornecedores**: Crio ferramentas e sistemas que avaliam, monitoram e gerenciam o desempenho de fornecedores, garantindo conformidade e qualidade.
-- **🛡️ Auditoria e Conformidade**: Implemento sistemas de auditoria contínua para garantir a conformidade com normas e regulamentos, reduzindo riscos e melhorando a eficiência operacional.
+- **📊 Visualizo seus dados e transformo em insights**: Crio dashboards que monitoram seus KPIs (estoque, compras, performance logística) e te dão o poder de identificar tendências e oportunidades de melhoria.
+- **🤖 Otimizo seu estoque e antecipo demandas**: Desenvolvo modelos preditivos que otimizam a gestão de estoque e preveem a demanda, permitindo que você reduza custos e evite rupturas.
+- **💻 Crio sistemas que automatizam e integram seus processos**: Desenvolvo sistemas que conectam suas operações, desde a gestão de qualidade de fornecedores até a auditoria de estoque, eliminando tarefas manuais e erros.
+- **📈 Elevo a qualidade e a performance dos seus fornecedores**: Implemento sistemas que avaliam, monitoram e gerenciam o desempenho dos seus fornecedores, garantindo que você trabalhe com os melhores.
+- **🛡️ Garanto a conformidade e a segurança dos seus processos**: Crio sistemas de auditoria contínua para garantir que sua empresa esteja em conformidade com normas e regulamentos, protegendo seu negócio.
 
 ## 🛠️ Projetos Desenvolvidos - Q3 & Q4 2024
 
-### 1️⃣ 📈 Dashboard de Performance Logística (Power BI + Python)
+### 1️⃣ 📈 **Painel de Controle Logístico Interativo**
 
-**Problema:** Monitorar a performance logística em tempo real para identificar gargalos e oportunidades de melhoria.
-**Solução:** Desenvolvimento de um dashboard interativo no Power BI, com dados integrados de diversas fontes e cálculos precisos para KPIs de logística.
-**Tecnologias:** Power BI, Python (para tratamento e ETL de dados), SQL.
+**Problema:** Falta de visibilidade em tempo real da performance logística, dificultando a identificação de gargalos e áreas de melhoria.
+**Solução:** Crio dashboards interativos que centralizam dados de diversas fontes, transformando informações em insights claros para decisões rápidas.
 **Resultados:**
-    *   📊 Visualização clara e concisa de KPIs de logística.
-    *   🔍 Identificação rápida de gargalos e oportunidades de melhoria.
-    *   🚀 Tomada de decisões mais assertivas e baseadas em dados.
-    *   ⏱️ Redução de até 15% no tempo de análise e tomada de decisão.
+    *   📊 Visualização clara e acessível dos KPIs logísticos.
+    *   🔍 Identificação imediata de gargalos e oportunidades de melhoria.
+    *   🚀 Tomada de decisões mais assertivas e baseadas em dados confiáveis.
+    *   ⏱️ Redução do tempo gasto em análise de dados, focando em ações estratégicas.
 
-![dashboard_powerbi](https://github.com/user-attachments/assets/d3d4a00a-e49a-4c97-8390-7d3045078b9b)
+### 2️⃣ 🤖 **Sistema Inteligente de Gestão de Estoque**
 
-### 2️⃣ 🤖 Sistema de Gestão de Estoque com Previsão de Demanda (React + Python + Machine Learning)
-
-**Problema:** Altos custos de estoque, falta de produtos e perda de vendas devido a previsões imprecisas.
-**Solução:** Criação de um sistema web em React, integrado com APIs Python e modelos de machine learning (Scikit-learn) para previsão de demanda e otimização de estoque.
-**Tecnologias:** React, Python (Flask), Scikit-learn, Docker, Kubernetes, PostgreSQL.
+**Problema:** Altos custos de estoque, falta de produtos e perda de vendas devido a previsões imprecisas e gestão ineficiente.
+**Solução:** Crio sistemas que integram inteligência preditiva para otimizar a gestão de estoque, antecipar a demanda e evitar perdas e custos desnecessários.
 **Resultados:**
-    *   🔮 Previsão de demanda com até 95% de precisão.
-    *   📉 Redução de custos de estoque em até 20%.
-    *   ✅ Diminuição de rupturas e perdas de venda.
-    *   ⚡️ Sistema intuitivo e fácil de usar.
+    *   🔮 Previsões de demanda mais precisas, reduzindo incertezas e otimizando o planejamento.
+    *   📉 Redução significativa nos custos de estoque, evitando excessos e faltas.
+    *   ✅ Redução das rupturas e perdas de venda, aumentando a satisfação do cliente.
+    *   ⚡️ Sistema intuitivo, fácil de usar, e que empodera a equipe de gestão.
 
-![gestao_estoque](https://github.com/user-attachments/assets/267a63a2-4a0c-43a4-a304-994f1e27c8c5)
+### 3️⃣ 🗂️ **Sistema de Gestão da Qualidade de Fornecedores**
 
-### 3️⃣ 🗂️ Sistema de Gestão da Qualidade de Fornecedores (React + FastAPI + MongoDB)
-
-**Problema:** Dificuldade em gerenciar e avaliar o desempenho dos fornecedores, resultando em problemas de qualidade e atrasos na entrega.
-**Solução:** Desenvolvimento de um sistema web completo com React e FastAPI para gerenciar informações de fornecedores, avaliar seu desempenho, gerenciar reclamações e monitorar a conformidade.
-**Tecnologias:** React, FastAPI, MongoDB, Docker, Kubernetes.
+**Problema:** Dificuldade em acompanhar e avaliar o desempenho de fornecedores, resultando em problemas de qualidade e atrasos na entrega.
+**Solução:** Implemento sistemas que centralizam e automatizam a avaliação de fornecedores, gestão de reclamações e acompanhamento da conformidade.
 **Resultados:**
-    *   ✅ Processo de avaliação de fornecedores mais eficiente.
-    *   🗂️ Centralização das informações de fornecedores.
-    *   📢 Gestão eficaz de reclamações.
-    *   💯 Aumento da qualidade dos produtos e serviços.
+    *   ✅ Processos de avaliação de fornecedores mais eficientes e transparentes.
+    *   🗂️ Centralização de informações para um melhor controle.
+    *   📢 Gestão de reclamações simplificada, garantindo a qualidade.
+    *   💯 Aumento da qualidade dos produtos e serviços fornecidos.
 
-![gestao_fornecedor](https://github.com/user-attachments/assets/455f9011-0615-423d-931d-67bb3c9a3018)
+### 4️⃣ 🛡️ **Sistema de Auditoria Contínua de Processos**
 
-### 4️⃣ 🛡️ Sistema de Auditoria Contínua (Python + SQL + Django)
-
-**Problema:** Processos de auditoria demorados e manuais, com alto risco de erros e inconsistências.
-**Solução:** Criação de um sistema automatizado para auditoria contínua de processos logísticos, com geração de relatórios automatizados e alertas para desvios.
-**Tecnologias:** Python (Django), SQL (PostgreSQL), Celery.
+**Problema:** Processos de auditoria demorados e manuais, com risco de erros e inconsistências.
+**Solução:** Desenvolvo sistemas de auditoria contínua que automatizam a geração de relatórios, detectam desvios e garantem a conformidade de forma proativa.
 **Resultados:**
     *   ⏰ Auditoria em tempo real com relatórios automatizados.
-    *   ⚠️ Detecção rápida de desvios e irregularidades.
-    *   📉 Redução de riscos e melhoria da conformidade.
-    *   🚀 Processos de auditoria mais eficientes e eficazes.
+    *   ⚠️ Detecção rápida de desvios e irregularidades, permitindo ações corretivas imediatas.
+    *   📉 Redução de riscos e melhoria da conformidade, protegendo o negócio.
+    *   🚀 Aumento da eficiência e eficácia dos processos de auditoria.
 
-![auditoria_processos](https://github.com/user-attachments/assets/5c32c459-56e0-457e-83e0-11d7f9f9c620)
+### 5️⃣ 🛒 **Micro serviço de Análise Inteligente de Compras**
 
-
-### 5️⃣ 🛒 Microserviço de Análise de Compras (Python + FastAPI)
-
-**Problema:** Dificuldade em analisar dados de compras para identificar padrões e otimizar processos.
-**Solução:** Desenvolvimento de um micro serviço com FastAPI que analisa dados de compras e gera insights sobre performance, fornecedores e oportunidades de economia.
-**Tecnologias:** Python (FastAPI), Pandas, NumPy, SQL (PostgreSQL).
+**Problema:** Dificuldade em analisar dados de compras para identificar padrões, otimizar processos e reduzir custos.
+**Solução:** Crio micro serviços que analisam seus dados de compras, geram insights sobre performance, fornecedores e oportunidades de economia.
 **Resultados:**
-    *   📈 Análise detalhada dos dados de compras.
+    *   📈 Análise detalhada dos dados de compras, identificando tendências e oportunidades.
     *   🧐 Identificação de oportunidades para reduzir custos e melhorar negociações.
-    *   📊 Relatórios e insights automáticos para tomada de decisão.
+    *   📊 Relatórios automáticos com insights para tomadas de decisão estratégicas.
 
-![microservico_compras](https://github.com/user-attachments/assets/b2b071e1-a489-4a29-893f-1821c0c486b8)
+## 🎯 Meu Compromisso:
 
-## 🎯 Meu compromisso:
+Entrego **soluções práticas**, **inovadoras** e que geram **resultados diretos** para sua empresa. Minhas soluções são construídas com foco em **eficiência**, **redução de custos**, **qualidade** e **melhoria contínua** dos seus processos.
 
-Meu objetivo é entregar **soluções práticas**, **inovadoras** e com **impacto direto** nos resultados da sua empresa. Utilizo as tecnologias mais recentes e as melhores práticas de desenvolvimento para criar sistemas e ferramentas que realmente fazem a diferença.
+## 🚀 Vamos Juntos Transformar Seus Resultados?
 
-## 🚀 Como podemos trabalhar juntos?
+Se você busca um profissional que traga **resultados concretos**, **inovação** e **automação** para sua empresa, entre em contato! Estou pronto para:
 
-Se você está buscando um profissional que entregue **resultados concretos**, **inovação** e **automação** para a sua empresa, vamos conversar! Estou disponível para:
+*   **Consultoria Estratégica**: Avaliar seus processos e propor soluções personalizadas.
+*   **Desenvolvimento de Sistemas**: Criar sistemas e ferramentas sob medida para suas necessidades.
+*   **Parcerias de Trabalho**: Colaborar em projetos estratégicos que impulsionem seu negócio.
 
-*   **Consultoria**: Avaliar seus processos e propor soluções personalizadas.
-*   **Desenvolvimento de Sistemas**: Criar sistemas e ferramentas sob medida para as suas necessidades.
-*   **Parcerias**: Colaborar em projetos estratégicos para sua empresa.
-
-## 📞 Entre em contato!
+## 📞 Entre em Contato!
 
 📱 **WhatsApp:** [11 9 1335 3137](https://wa.me/55119913353137)
 
-Vamos transformar seus desafios em oportunidades e alavancar seus resultados! ✨
+Transforme seus desafios em oportunidades e eleve seus resultados! ✨
 
-## 💡 Tecnologias e Ferramentas que utilizo:
+---
 
-- **Linguagens de Programação**: Python, JavaScript, SQL, Shell Script
-- **Frameworks e Bibliotecas**: React, Flask, FastAPI, Django, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-- **Bancos de Dados**: PostgreSQL, MongoDB, MySQL
-- **Ferramentas de BI**: Power BI, Tableau
-- **Contêineres e Orquestração**: Docker, Kubernetes
-- **Infraestrutura**: AWS, Google Cloud, Azure
+**Elias Andrade** - Sua parceria em inovação, automação e resultados. 🚀
 
-## 🖼️ Evidências e Resultados
-
-**(Prints e imagens dos dashboards e sistemas, caso queira adicionar)**
-
+![23092013](https://github.com/user-attachments/assets/cba268fd-2f0c-46f7-ad09-935aa614613a)
 ---
 
 Espero que este README.md detalhado capture a essência do seu trabalho e atraia os clientes certos! Se precisar de ajustes, é só me dizer. 😉
