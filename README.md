@@ -91,8 +91,13 @@ Projetos Q3 e Q4 - 2024
 
 ![chrome_sBeEKL3EfO](https://github.com/user-attachments/assets/38c9a631-4069-4079-9b5a-843d2a2687ad)
 
+![putty_pmjJUyD4mC](https://github.com/user-attachments/assets/1408020e-34b2-4eab-8648-daabd5ecf376)
+![K8Studio_jXdxkvBPSL](https://github.com/user-attachments/assets/34d44961-c769-4e80-bb0a-f8addbda87f3)
+![K8Studio_xfTduiip4V](https://github.com/user-attachments/assets/6464839d-3666-4f75-bf79-79227ec71652)
 
-
+![chrome_E3B8TU2LTA](https://github.com/user-attachments/assets/47bf6f00-86fd-419f-9ba7-e7a0fe532dbe)
+![chrome_uAgleGCnKq](https://github.com/user-attachments/assets/35efc1d7-77ec-4de9-8fae-85599d6acd51)
+![chrome_OOUhtZ3QHL](https://github.com/user-attachments/assets/721a4bf4-6cf0-4d44-bc08-18c9676e7b9f)
 
 
 
