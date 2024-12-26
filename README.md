@@ -77,9 +77,19 @@ Projetos Q3 e Q4 - 2024
 ![K8Studio_BbhYQ9K9bf](https://github.com/user-attachments/assets/5c303f64-c44a-4313-aab1-4cb9c293abf7)
 ![K8Studio_yZRaOoDazH](https://github.com/user-attachments/assets/39f5cad3-ff1d-412e-9572-8940ede156fa)
 
+![chrome_a9EMz3ZY6y](https://github.com/user-attachments/assets/5bb4e864-d244-4f56-9873-7ff901303b00)
+![chrome_HnxLFppabg](https://github.com/user-attachments/assets/c23ec02e-d17b-4c0a-9224-7c4b06e6f80a)
+![chrome_iP5jtjG5Ri](https://github.com/user-attachments/assets/6757fa2d-6e0c-4860-8287-071dfc5c886e)
+![chrome_k1okC7Rgxp](https://github.com/user-attachments/assets/356fd02d-780c-482e-9e69-36beb3100952)
+![chrome_ohQTrvAEJ7](https://github.com/user-attachments/assets/1b3cd686-672b-4ab7-83a0-283f33dcc4be)
+![chrome_max8XQjhn4](https://github.com/user-attachments/assets/24bd1529-a182-4c46-ba73-6504cfa5b4aa)
+![chrome_wpt37m351o](https://github.com/user-attachments/assets/03dd876b-0312-4534-ad60-0863b1c2e3f7)
 
+![chrome_VxH61KkVUp](https://github.com/user-attachments/assets/4c54f6fb-ee2b-4940-96cd-c1c3f024d7ff)
 
+![chrome_m4avGYpeqP](https://github.com/user-attachments/assets/0dcb29bc-ea54-4315-a546-d619a2b36a52)
 
+![chrome_sBeEKL3EfO](https://github.com/user-attachments/assets/38c9a631-4069-4079-9b5a-843d2a2687ad)
 
 
 
