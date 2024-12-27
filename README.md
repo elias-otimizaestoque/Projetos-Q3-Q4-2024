@@ -1,4 +1,4 @@
-# 🚀 Projetos Q3 & Q4 2024 - Elias Andrade: Transformando Logística, Compras e Suprimentos com Inteligência e Automação 💡
+# 🚀 Projetos Q3 & Q4 2024 - Elias Andrade: Transformei durante 4 anos e 9 meses o processo de Logística, Compras e Suprimentos de 2019 a 2023, com Inteligência e Automação 💡
 
 ![chrome_hG6QT9HE46](https://github.com/user-attachments/assets/b322117c-b32d-4bbc-962d-b4238f7a256e)
 
